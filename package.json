@@ -1,0 +1,26 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "unit-тестирование с помощью jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+ 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinieva/jest-test.git"
+  },
+  "author": "Rezeda Dinieva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinieva/jest-test/issues"
+  },
+  "homepage": "https://github.com/dinieva/jest-test#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
